@@ -1,8 +1,14 @@
 {
-  "index.qmd": {
-    "index.html": "e0abd40d"
+  "about.qmd": {
+    "about.html": "1f63435b"
   },
-  "why.qmd": {
-    "why.html": "275c1cec"
+  "docs/index.qmd": {
+    "index.html": "4528d7a3"
+  },
+  "docs/why.qmd": {
+    "why.html": "a5138389"
+  },
+  "index.qmd": {
+    "index.html": "cc131adb"
   }
 }

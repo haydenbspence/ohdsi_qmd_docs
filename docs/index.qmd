@@ -1,13 +1,7 @@
 ---
-title: "OHDSI Docs"
-description: ""
-repo-actions: false
-code-annotations: hover
-format:
-  html:
-    toc: false
+title: "docs"
 ---
 
+This is a Quarto website.
 
-
-test
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
