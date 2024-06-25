@@ -17,11 +17,10 @@ jobs:
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         
-      - name: Render Quarto Project
+      - name: Render
         uses: quarto-dev/quarto-actions/render@v2
         with:
           to: html # If set, it will be equivalent to `quarto render --to html`
-          path: src
 
       - name: Publish
         uses: quarto-dev/quarto-actions/publish@v2
