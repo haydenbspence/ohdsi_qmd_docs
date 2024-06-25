@@ -1,2 +1,6 @@
 /.quarto/
 /_site/
+README.html
+.Rproj.user
+.Rhistory
+.git
