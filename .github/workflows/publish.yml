@@ -20,7 +20,6 @@ jobs:
       - name: Publish
         uses: quarto-dev/quarto-actions/publish@v2
         with:
-          target: main
           render: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
