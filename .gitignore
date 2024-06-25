@@ -1,6 +1,21 @@
-/.quarto/
-/_site/
+
+
+# GitHub Actions will render these on commit
+/docs/.quarto/
+/docs/_site/
+/docs/site_libs/
+/docs/search.json
+/docs/robots.txt
+/docs/sitemap.xml
+/docs/.Rhistory
+/docs/*.html
+
+
+
+
+
 README.html
 .Rproj.user
 .Rhistory
 .git
+
