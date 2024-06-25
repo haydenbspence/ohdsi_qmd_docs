@@ -22,6 +22,5 @@ jobs:
         with:
           target: main
           render: true
-          path: "./docs"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
